@@ -3,7 +3,7 @@ import requests
 import os
 
 token = ""
-file_path = 'D:\Learning\Python\Lesson10\\test.txt'
+file_path = ""
 
 
 class YaUploader:
