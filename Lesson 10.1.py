@@ -33,6 +33,5 @@ def high_intel_of_heroes(hero_list):
 Hulk = SuperHero("Hulk")
 Captain_America = SuperHero("Captain America")
 Thanos = SuperHero("Thanos")
-asd = SuperHero("asd")
 
 print(high_intel_of_heroes(heroes_list))
